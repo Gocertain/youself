@@ -1,0 +1,30 @@
+ip -link -list
+ip -s link list
+env
+getenforce
+
+iptables -t nat -L
+iptables -F
+
+yum list|grep nginx
+
+nginx -V/v
+
+systemctl restart nginx.server
+
+
+rpm -ql nginx (nginx安装的目录)
+
+curl -v http://...com/..>/dev/null
+
+curl http://../../..
+
+head/tail -50 folder
+tail -f folder
+
+检查conf语法
+nginx -t -c /etc/nginx/nginx.conf
+
+nginx -s reload -c /etc/nginx/nginx.conf
+
+ps -aux|grep nginx
