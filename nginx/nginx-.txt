@@ -8,7 +8,7 @@ iptables -F
 
 yum list|grep nginx
 
-nginx -V/v
+nginx -V/v   °¢
 
 systemctl restart nginx.server
 
