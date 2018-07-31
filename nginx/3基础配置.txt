@@ -5,3 +5,10 @@ pid			服务启动的Pid
 
 event	worker_connertions	允许进程的最大连接数
 	use			工作进程数
+
+
+
+nginx访问控制
+http_access_module syntax:deny(num,all)|allow address(num,all)|CIDR|unix:|all
+			Deafult:--
+			 

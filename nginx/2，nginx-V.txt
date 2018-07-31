@@ -39,7 +39,7 @@
 --with-http_slice_module 
 --with-http_ssl_module 
 --with-http_stub_status_module 		¿Í»§¶Ë×´Ì¬
---with-http_sub_module 
+--with-http_sub_module 			httpÄÚÈÝÌæ»» sub_file 'str' 'str'; sub_file_once off;
 --with-http_v2_module 
 --with-mail 
 --with-mail_ssl_module 

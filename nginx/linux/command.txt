@@ -1,0 +1,6 @@
+
+
+查看电脑的当前用户 ：whoami
+
+du -a -h| sort -n -r | head -n 10 max-10
+du --max-depth=1 -h    show空间大小
