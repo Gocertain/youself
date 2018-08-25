@@ -4,3 +4,7 @@
 
 du -a -h| sort -n -r | head -n 10 max-10
 du --max-depth=1 -h    show空间大小
+
+
+linux安装插件
+zsh  安装；

@@ -1,0 +1,197 @@
+
+
+##ftp---已经停止
+ftp://47.97.18.140:22
+shop_qjk360_com
+AGHQ8KMxNd
+
+
+******************************************************************************************
+
+##生产环境数据库
+MySQL 5.6;
+外网地址: rm-bp1pz6d85r6pl84c6.mysql.rds.aliyuncs.com
+内网地址: rm-bp1pz6d85r6pl84c6i.mysql.rds.aliyuncs.com
+端口号: 3306
+fm_shop数据库为商城系统的主数据库, 除了fm_shop 外,其余数据库均为历史遗留;
+数据库帐号: fm_shop
+新密码：zO*^Jq1HbSO9aNTFi
+
+只读账号
+qjk
+qjk888aQ
+******************************************************************************************
+
+##生产环境服务器
+IP地址: 47.97.18.140
+SSH端口号: 8801
+用户：viggo
+新密码：Qjk@018New
+
+阿里云远程连接密码：qjk888
+
+帐号: root（管理员不能远程登录）
+密码: woaini@2010-5
+qjkhoutaiaQ！
+
+宝塔管理地址：https://47.97.18.140:34095
+帐号: viggo
+新密码：Qjkprod@018
+
+
+ftp://47.97.18.140:22
+账号：shop_qjk360_com
+新密码：3peDrASTWLsb
+
+https://shop.qjk360.com/admin
+qjk
+ZhelishiqjkServer@018
+
+开发人员用
+program，DevelopTest
+******************************************************************************************
+
+
+##生产环境服务器2
+##全家康生产环境服务器2
+IP地址: 47.96.110.22
+SSH端口号: 8801
+用户：root
+密码：Qjk2018New
+远程连接密码： 316934
+http://47.96.110.22:8888
+root
+Qjk2018New
+
+******************************************************************************************
+
+##测试环境服务器
+IP地址: 116.62.33.156
+SSH端口号: 8801
+
+帐号: viggo
+新密码：SHXQjk@018
+帐号: root（不可以远程登录）
+密码: woaini@2010-5
+
+宝塔管理地址： http://116.62.33.156:34095
+帐号: viggo
+新密码：QjkServer@018
+
+
+ftp://116.62.33.156:22
+用户名：qjktest
+密码：Qjktest@018
+ftp://116.62.33.156:22
+目录 hderp
+hderp	BscYLkwmKm
+远程连接密码： 110023
+
+http://test.shop.qjk360.com/admin
+viggo
+ZhelishiTest@018
+
+******************************************************************************************
+
+
+##个推
+个推(承运端app push推送服务)
+网址: https://dev.getui.com/#/login
+帐号: viggo
+密码: woaini@2010
+
+
+##微信测试账号
+帐号: qjk364@sina.com
+密码: Woaini2010
+测试微信公众号
+
+饿了么https://open.shop.ele.me/openapi/account 
+饿了么商家版 https://melody.shop.ele.me/app/chain-shop/order/query
+饿了么开放平台审核通过
+账号：BJHdyf2sz
+密码：BJHdyf2sz
+
+手机号：18012666406
+美团外卖开放平台   总账号：baijiahui888
+密码：oisCW31513
+海阔天空 2018-02-06 14:28:42
+美团外卖http://developer.waimai.meituan.com/index 
+
+
+
+客服后台
+http://qjk360.udesk.cn/users/sign_in
+登陆账号：qjk365@sina.com
+登陆密码：qjk201703
+  
+
+
+##51la 用户访问统计
+https://www.51.la/  
+账号：全家康小李
+密码：185505
+
+##七牛后台
+七牛云https://portal.qiniu.com/create
+账号已经注册完成，正在认证阶段
+ak:cT7Pq5WeLEtjzi_NpVKDDj3_RSMoyhSvItkrf21l
+sk:QK2NjSNYoNFrT9L--8xxRUmaboXI41OPSQEL29Ir
+账号：familykang@sina.com
+密码：qjkqny@018!KS
+
+##承运   饿了么蜂鸟配送接口测试帐号：
+App ID：00a70a01-ccd1-467b-97ca-fda49c530236
+Secret Key：8d6e6b80-3b1a-4ab1-9b24-8391d3a4c215 
+http://fengniao.ele.me/
+帐号：949575058@qq.com  密码：SZQJKR018KS
+https://open.ele.me/ 开放平台
+
+
+
+##美团账号:baijiahui888   密码:oisCW31513
+2、百度商家账号:bdwmbjhrf  密码：Hh293846
+3、饿了吗账号：BJHdyf2sz   密码：BJHdyf2sz，手机号18012664606
+4、京东到家账号：jd_jsbjhrf   密码：1234567q！
+5、网址：http://admin.qjk360.com/
+账号：qjkadmin    密码：888888
+
+##美团开放平台：
+18012666406     
+qjk1234567!
+appid=2640
+
+##饿百平台
+新零售饿百新版商户端下载
+账号:bjhebht    密码：Mj419479
+
+饿百零售开放平台
+https://open-be.ele.me/dev
+测试账号：pmtest  密码：Mk058654
+新密码：qjkWaimai!
+
+
+PC电脑客户端下载
+https://s.waimai.baidu.com/b/wmcrm/retail.exe
+Android手机版下载
+https://s.waimai.baidu.com/b/wmcrm/retail_w.apk
+
+##oracle
+用户名：linshi，密码：linshi888666
+正式 58.211.240.78 52111     库：hydee
+测试 58.211.240.78 52112     库：hydeekf
+
+h2.t_ware商品信息
+h2.v_ware商品信息
+h2.s_busi业务机构
+h2.t_store_h  库存
+h2.t_store_d
+
+
+
+
+
+
+
+
+
