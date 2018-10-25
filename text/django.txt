@@ -1,0 +1,6 @@
+deactivate
+activate
+pip install name
+pip uninstall name
+workon name 
+pip list
